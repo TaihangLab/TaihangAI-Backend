@@ -59,6 +59,12 @@
 - 演示地址: https://web.pandarobot.chat
 - 后台管理: https://admin.pandarobot.chat
 - 用户名: admin 密码：admin123
+- 
+### gitcode源码地址
+- https://gitcode.com/ageerle/ruoyi-ai
+- https://gitcode.com/ageerle/ruoyi-web
+- https://gitcode.com/ageerle/ruoyi-admin
+- https://gitcode.com/ageerle/ruoyi-uniapp
 
 ### 特色功能
 1. 全套开源系统：提供完整的前端应用、后台管理以及小程序应用，基于MIT协议，开箱即用。
@@ -179,7 +185,6 @@ RuoYi-AI
 
 <div>
   <img src="image/01.png" alt="drawing" width="300px" height="300px"/>
-  <img src="image/12.png" alt="drawing" width="300px" height="300px"/>
 </div>
 
 ### 版权说明
